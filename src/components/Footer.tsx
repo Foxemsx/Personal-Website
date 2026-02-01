@@ -133,6 +133,14 @@ export default function Footer() {
               >
                 <SteamIcon size={18} className="text-[var(--text-secondary)] hover:text-[#66c0f4] transition-colors" />
               </a>
+              <a
+                href="https://github.com/Foxemsx"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-10 h-10 rounded-full bg-white/5 hover:bg-[#FF6B35]/20 flex items-center justify-center transition-all border border-white/10 hover:border-[#FF6B35]/50"
+              >
+                <Github size={18} className="text-[var(--text-secondary)] hover:text-[#FF6B35] transition-colors" />
+              </a>
             </div>
           </motion.div>
         </div>

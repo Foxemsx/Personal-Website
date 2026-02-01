@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hero Background](./public/hero-bg.png)
+![Hero Background](./public/hero-bg.webp)
 
 # <span style="font-size: 72px; font-weight: 900;"><span style="color: #ffffff;">FOX</span><span style="background: linear-gradient(to right, #c084fc, #ec4899, #fb923c); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">EMS</span></span>
 

@@ -18,7 +18,7 @@
 
 ##  What is Foxems?
 
-Welcome to my personal universe - a **living, breathing dashboard** that tracks my journey through anime, gaming, and development. This isn't just a portfolio; it's a real-time reflection of my digital life.
+**Foxems is me** - my personal brand and digital identity. This is my living, breathing dashboard that tracks my journey through anime, gaming, and development. This isn't just a portfolio; it's a real-time reflection of my digital life.
 
 > *"I track my anime journey, gaming achievements, and development projects. Explore my stats and see what I'm up to."*
 

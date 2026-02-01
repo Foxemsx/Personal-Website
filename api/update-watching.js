@@ -1,25 +1,30 @@
+// Vercel serverless function to receive watching updates
 export default async function handler(req, res) {
-  // Set CORS headers
+  // ALWAYS set CORS headers first, before any other code
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'POST, GET, OPTIONS');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
 
-  if (req.method === 'OPTIONS') {
-    return res.status(200).end();
-  }
+  try {
+    if (req.method === 'OPTIONS') {
+      return res.status(200).end();
+    }
 
-  // GET - Return current watching data
-  if (req.method === 'GET') {
-    try {
-      // Try to get from KV if available
+    // GET - Return current watching data
+    if (req.method === 'GET') {
       let data = null;
       
-      if (process.env.VERCEL_KV_REST_API_URL && process.env.VERCEL_KV_REST_API_TOKEN) {
-        const { kv } = await import('@vercel/kv');
-        data = await kv.get('now-watching');
+      try {
+        // Try to get from KV if available
+        if (process.env.VERCEL_KV_REST_API_URL && process.env.VERCEL_KV_REST_API_TOKEN) {
+          const { kv } = await import('@vercel/kv');
+          data = await kv.get('now-watching');
+        }
+      } catch (kvError) {
+        console.error('KV error:', kvError);
       }
       
-      // Fallback to environment variable or default
+      // Fallback to default
       if (!data) {
         data = {
           isWatching: false,
@@ -31,24 +36,23 @@ export default async function handler(req, res) {
       }
       
       return res.status(200).json(data);
-    } catch (error) {
-      console.error('Error reading from KV:', error);
-      return res.status(500).json({ 
-        error: 'Failed to read data',
-        isWatching: false,
-        timestamp: new Date().toISOString()
-      });
     }
-  }
 
-  // POST - Update watching data
-  if (req.method === 'POST') {
-    try {
+    // POST - Update watching data
+    if (req.method === 'POST') {
+      // Debug logging
+      console.log('POST request received', {
+        body: req.body,
+        headers: Object.keys(req.headers),
+        hasAuth: !!req.headers['authorization']
+      });
+
       const apiKey = req.headers['authorization']?.replace('Bearer ', '');
       const expectedKey = process.env.FOXCLI_API_KEY;
       
       // Verify API key if configured
       if (expectedKey && apiKey !== expectedKey) {
+        console.log('Auth failed - expected:', expectedKey?.slice(0, 10) + '...', 'got:', apiKey?.slice(0, 10) + '...');
         return res.status(401).json({ error: 'Invalid or missing API key' });
       }
 
@@ -76,20 +80,23 @@ export default async function handler(req, res) {
           await kv.set('now-watching', data, { ex: 300 }); // Expire after 5 minutes
         } catch (kvError) {
           console.error('KV store error:', kvError);
-          // Continue - we'll return the data even if KV fails
         }
       }
+
+      console.log('Data saved:', { title: data.title, isWatching: data.isWatching });
 
       return res.status(200).json({ 
         success: true, 
         message: 'Updated successfully',
         data 
       });
-    } catch (error) {
-      console.error('Error updating:', error);
-      return res.status(500).json({ error: 'Failed to update' });
     }
-  }
 
-  return res.status(405).json({ error: 'Method not allowed' });
+    return res.status(405).json({ error: 'Method not allowed' });
+    
+  } catch (error) {
+    console.error('Unhandled error:', error);
+    // CORS headers are already set, so error response will have them
+    return res.status(500).json({ error: 'Internal server error', message: error.message });
+  }
 }

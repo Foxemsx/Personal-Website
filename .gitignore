@@ -22,7 +22,7 @@ build/
 .env.production
 
 # Personal Data - DO NOT COMMIT
-public/data.json
+# public/data.json  # Now committed to track anime stats
 src/data/*.json
 *.csv
 *.xlsx
@@ -88,82 +88,3 @@ server-config.json
 
 # TypeScript
 *.tsbuildinfo
-
-# Build outputs
-dist/
-dist-ssr/
-build/
-*.local
-
-# Environment variables
-.env
-.env.local
-.env.*.local
-.env.development
-.env.test
-.env.production
-
-# Personal Data - DO NOT COMMIT
-public/data.json
-src/data/*.json
-*.csv
-*.xlsx
-*.sqlite
-*.db
-
-# API Keys & Secrets
-config/secrets.json
-secrets/
-*.key
-*.pem
-*.cert
-*.crt
-
-# IDE & Editor
-.vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-.DS_Store
-*.pem
-
-# Logs
-logs/
-*.log
-
-# Testing
-coverage/
-.nyc_output/
-
-# Cache
-.cache/
-.parcel-cache/
-.next/
-.nuxt/
-.eslintcache
-.stylelintcache
-
-# Misc
-*.bak
-*.tmp
-*.temp
-Thumbs.db
-desktop.ini
-
-# Operating System
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Electron specific
-out/
-release/
-*.app
-electron-builder.yml
-
-# Local API server configs
-api-config.json
-server-config.json

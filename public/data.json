@@ -1,0 +1,2853 @@
+{
+  "lastUpdated": "2026-02-01T09:45:14.099Z",
+  "profile": {
+    "displayName": "Foxems",
+    "bio": "",
+    "avatar": "",
+    "socials": {}
+  },
+  "anime": {
+    "stats": {
+      "userStats": {
+        "username": "Foxems",
+        "total_anime": 180,
+        "completed": 94,
+        "watching": 12,
+        "plan_to_watch": 73,
+        "on_hold": 0,
+        "dropped": 1,
+        "total_episodes": 2206,
+        "days_watched": 37.22,
+        "mean_score": 7.98
+      },
+      "genres": [
+        {
+          "name": "Action",
+          "count": 130,
+          "percentage": 17
+        },
+        {
+          "name": "Fantasy",
+          "count": 97,
+          "percentage": 12
+        },
+        {
+          "name": "Shounen",
+          "count": 96,
+          "percentage": 12
+        },
+        {
+          "name": "Adventure",
+          "count": 81,
+          "percentage": 10
+        },
+        {
+          "name": "Drama",
+          "count": 41,
+          "percentage": 5
+        },
+        {
+          "name": "Supernatural",
+          "count": 39,
+          "percentage": 5
+        },
+        {
+          "name": "Isekai",
+          "count": 37,
+          "percentage": 5
+        },
+        {
+          "name": "Comedy",
+          "count": 37,
+          "percentage": 5
+        },
+        {
+          "name": "School",
+          "count": 32,
+          "percentage": 4
+        },
+        {
+          "name": "Reincarnation",
+          "count": 18,
+          "percentage": 2
+        },
+        {
+          "name": "Military",
+          "count": 15,
+          "percentage": 2
+        },
+        {
+          "name": "Gore",
+          "count": 15,
+          "percentage": 2
+        },
+        {
+          "name": "Sci-Fi",
+          "count": 14,
+          "percentage": 2
+        },
+        {
+          "name": "Suspense",
+          "count": 13,
+          "percentage": 2
+        },
+        {
+          "name": "Super Power",
+          "count": 12,
+          "percentage": 2
+        },
+        {
+          "name": "Urban Fantasy",
+          "count": 12,
+          "percentage": 2
+        },
+        {
+          "name": "Historical",
+          "count": 12,
+          "percentage": 2
+        },
+        {
+          "name": "Time Travel",
+          "count": 10,
+          "percentage": 1
+        },
+        {
+          "name": "Romance",
+          "count": 9,
+          "percentage": 1
+        },
+        {
+          "name": "Adult Cast",
+          "count": 8,
+          "percentage": 1
+        },
+        {
+          "name": "Mythology",
+          "count": 7,
+          "percentage": 1
+        },
+        {
+          "name": "Psychological",
+          "count": 7,
+          "percentage": 1
+        },
+        {
+          "name": "Video Game",
+          "count": 7,
+          "percentage": 1
+        },
+        {
+          "name": "Survival",
+          "count": 5,
+          "percentage": 1
+        },
+        {
+          "name": "Award Winning",
+          "count": 4,
+          "percentage": 1
+        },
+        {
+          "name": "Delinquents",
+          "count": 4,
+          "percentage": 1
+        },
+        {
+          "name": "Harem",
+          "count": 3,
+          "percentage": 0
+        },
+        {
+          "name": "Ecchi",
+          "count": 3,
+          "percentage": 0
+        },
+        {
+          "name": "Seinen",
+          "count": 3,
+          "percentage": 0
+        },
+        {
+          "name": "Childcare",
+          "count": 3,
+          "percentage": 0
+        },
+        {
+          "name": "Mecha",
+          "count": 2,
+          "percentage": 0
+        },
+        {
+          "name": "Mystery",
+          "count": 2,
+          "percentage": 0
+        },
+        {
+          "name": "Samurai",
+          "count": 2,
+          "percentage": 0
+        },
+        {
+          "name": "CGDCT",
+          "count": 1,
+          "percentage": 0
+        },
+        {
+          "name": "Music",
+          "count": 1,
+          "percentage": 0
+        },
+        {
+          "name": "Vampire",
+          "count": 1,
+          "percentage": 0
+        }
+      ],
+      "scores": [
+        {
+          "score": 1,
+          "count": 0
+        },
+        {
+          "score": 2,
+          "count": 1
+        },
+        {
+          "score": 3,
+          "count": 0
+        },
+        {
+          "score": 4,
+          "count": 2
+        },
+        {
+          "score": 5,
+          "count": 3
+        },
+        {
+          "score": 6,
+          "count": 9
+        },
+        {
+          "score": 7,
+          "count": 22
+        },
+        {
+          "score": 8,
+          "count": 16
+        },
+        {
+          "score": 9,
+          "count": 23
+        },
+        {
+          "score": 10,
+          "count": 21
+        }
+      ],
+      "seasonalStats": [
+        {
+          "season": "Winter",
+          "year": 2028,
+          "count": 1,
+          "avgScore": 0,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 63235,
+              "title": "Long Zu III: Hei Yue Zhi Chao",
+              "image": "https://cdn.myanimelist.net/images/anime/1986/154808l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Winter",
+          "year": 2027,
+          "count": 1,
+          "avgScore": 0,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 62516,
+              "title": "Dandadan 3rd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1671/154516l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Winter",
+          "year": 2026,
+          "count": 11,
+          "avgScore": 0,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 61967,
+              "title": "Black Clover 2nd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1717/154518l.jpg",
+              "score": 0
+            },
+            {
+              "id": 59229,
+              "title": "Enen no Shouboutai: San no Shou Part 2",
+              "image": "https://cdn.myanimelist.net/images/anime/1508/152472l.jpg",
+              "score": 0
+            },
+            {
+              "id": 55825,
+              "title": "Jigokuraku 2nd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1772/154456l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2026,
+          "count": 4,
+          "avgScore": 0,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 62568,
+              "title": "Dr. Stone: Science Future Part 3",
+              "image": "https://cdn.myanimelist.net/images/anime/1860/154514l.jpg",
+              "score": 0
+            },
+            {
+              "id": 61316,
+              "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1040/153636l.jpg",
+              "score": 0
+            },
+            {
+              "id": 59970,
+              "title": "Tensei shitara Slime Datta Ken 4th Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1276/145790l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2026,
+          "count": 1,
+          "avgScore": 0,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 59193,
+              "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+              "image": "https://cdn.myanimelist.net/images/anime/1723/154941l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Winter",
+          "year": 2025,
+          "count": 3,
+          "avgScore": 7,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 58567,
+              "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+              "image": "https://cdn.myanimelist.net/images/anime/1448/147351l.jpg",
+              "score": 7
+            },
+            {
+              "id": 59226,
+              "title": "Ao no Exorcist: Yosuga-hen",
+              "image": "https://cdn.myanimelist.net/images/anime/1390/147040l.jpg",
+              "score": 0
+            },
+            {
+              "id": 57592,
+              "title": "Dr. Stone: Science Future",
+              "image": "https://cdn.myanimelist.net/images/anime/1403/146479l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2025,
+          "count": 2,
+          "avgScore": 9,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 51818,
+              "title": "Enen no Shouboutai: San no Shou",
+              "image": "https://cdn.myanimelist.net/images/anime/1527/146836l.jpg",
+              "score": 9
+            },
+            {
+              "id": 49818,
+              "title": "Guimi Zhi Zhu: Xiaochou Pian",
+              "image": "https://cdn.myanimelist.net/images/anime/1952/149229l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2025,
+          "count": 10,
+          "avgScore": 7.5,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 59192,
+              "title": "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
+              "image": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
+              "score": 10
+            },
+            {
+              "id": 57555,
+              "title": "Chainsaw Man Movie: Reze-hen",
+              "image": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg",
+              "score": 8
+            },
+            {
+              "id": 59662,
+              "title": "Long Zu II: Daowangzhe Zhi Tong",
+              "image": "https://cdn.myanimelist.net/images/anime/1577/147273l.jpg",
+              "score": 8
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2025,
+          "count": 5,
+          "avgScore": 8,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 60098,
+              "title": "Boku no Hero Academia: Final Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
+              "score": 9
+            },
+            {
+              "id": 59027,
+              "title": "Spy x Family Season 3",
+              "image": "https://cdn.myanimelist.net/images/anime/1697/151793l.jpg",
+              "score": 8
+            },
+            {
+              "id": 54703,
+              "title": "Fumetsu no Anata e Season 3",
+              "image": "https://cdn.myanimelist.net/images/anime/1140/152364l.jpg",
+              "score": 7
+            }
+          ]
+        },
+        {
+          "season": "Winter",
+          "year": 2024,
+          "count": 3,
+          "avgScore": 8,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 49889,
+              "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1794/142621l.jpg",
+              "score": 9
+            },
+            {
+              "id": 52299,
+              "title": "Ore dake Level Up na Ken",
+              "image": "https://cdn.myanimelist.net/images/anime/1801/142390l.jpg",
+              "score": 7
+            },
+            {
+              "id": 53889,
+              "title": "Ao no Exorcist: Shimane Illuminati-hen",
+              "image": "https://cdn.myanimelist.net/images/anime/1239/140803l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2024,
+          "count": 7,
+          "avgScore": 7.2,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 55701,
+              "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+              "image": "https://cdn.myanimelist.net/images/anime/1565/142711l.jpg",
+              "score": 9
+            },
+            {
+              "id": 53580,
+              "title": "Tensei shitara Slime Datta Ken 3rd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1211/143476l.jpg",
+              "score": 9
+            },
+            {
+              "id": 53865,
+              "title": "Yozakura-san Chi no Daisakusen",
+              "image": "https://cdn.myanimelist.net/images/anime/1674/143715l.jpg",
+              "score": 9
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2024,
+          "count": 1,
+          "avgScore": 8,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 58059,
+              "title": "Tsue to Tsurugi no Wistoria",
+              "image": "https://cdn.myanimelist.net/images/anime/1281/144104l.jpg",
+              "score": 8
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2024,
+          "count": 9,
+          "avgScore": 7.6,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 56784,
+              "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+              "image": "https://cdn.myanimelist.net/images/anime/1595/144074l.jpg",
+              "score": 10
+            },
+            {
+              "id": 54857,
+              "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1706/144725l.jpg",
+              "score": 8
+            },
+            {
+              "id": 59571,
+              "title": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
+              "image": "https://cdn.myanimelist.net/images/anime/1379/145452l.jpg",
+              "score": 8
+            }
+          ]
+        },
+        {
+          "season": "Winter",
+          "year": 2023,
+          "count": 4,
+          "avgScore": 9,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 49387,
+              "title": "Vinland Saga Season 2",
+              "image": "https://cdn.myanimelist.net/images/anime/1170/124312l.jpg",
+              "score": 10
+            },
+            {
+              "id": 50608,
+              "title": "Tokyo Revengers: Seiya Kessen-hen",
+              "image": "https://cdn.myanimelist.net/images/anime/1773/132313l.jpg",
+              "score": 8
+            },
+            {
+              "id": 53111,
+              "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen",
+              "image": "https://cdn.myanimelist.net/images/anime/1476/128693l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2023,
+          "count": 4,
+          "avgScore": 8,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 46569,
+              "title": "Jigokuraku",
+              "image": "https://cdn.myanimelist.net/images/anime/1075/131925l.jpg",
+              "score": 10
+            },
+            {
+              "id": 48549,
+              "title": "Dr. Stone: New World",
+              "image": "https://cdn.myanimelist.net/images/anime/1316/136268l.jpg",
+              "score": 7
+            },
+            {
+              "id": 51019,
+              "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+              "image": "https://cdn.myanimelist.net/images/anime/1765/135099l.jpg",
+              "score": 7
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2023,
+          "count": 3,
+          "avgScore": 9.5,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 53998,
+              "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+              "image": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+              "score": 10
+            },
+            {
+              "id": 51009,
+              "title": "Jujutsu Kaisen 2nd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg",
+              "score": 9
+            },
+            {
+              "id": 52991,
+              "title": "Sousou no Frieren",
+              "image": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2023,
+          "count": 10,
+          "avgScore": 7,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 54595,
+              "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1938/138295l.jpg",
+              "score": 9
+            },
+            {
+              "id": 52347,
+              "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+              "image": "https://cdn.myanimelist.net/images/anime/1500/139931l.jpg",
+              "score": 8
+            },
+            {
+              "id": 40357,
+              "title": "Tate no Yuusha no Nariagari Season 3",
+              "image": "https://cdn.myanimelist.net/images/anime/1317/139802l.jpg",
+              "score": 7
+            }
+          ]
+        },
+        {
+          "season": "Winter",
+          "year": 2022,
+          "count": 1,
+          "avgScore": 6,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 40507,
+              "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1877/119668l.jpg",
+              "score": 6
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2022,
+          "count": 2,
+          "avgScore": 7,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 50265,
+              "title": "Spy x Family",
+              "image": "https://cdn.myanimelist.net/images/anime/1441/122795l.jpg",
+              "score": 10
+            },
+            {
+              "id": 40356,
+              "title": "Tate no Yuusha no Nariagari Season 2",
+              "image": "https://cdn.myanimelist.net/images/anime/1143/121873l.jpg",
+              "score": 4
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2022,
+          "count": 7,
+          "avgScore": 8.3,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 44408,
+              "title": "Long Zu",
+              "image": "https://cdn.myanimelist.net/images/anime/1854/126703l.jpg",
+              "score": 10
+            },
+            {
+              "id": 52890,
+              "title": "Long Zu Episode 0",
+              "image": "https://cdn.myanimelist.net/images/anime/1980/127330l.jpg",
+              "score": 9
+            },
+            {
+              "id": 50612,
+              "title": "Dr. Stone: Ryuusui",
+              "image": "https://cdn.myanimelist.net/images/anime/1071/124921l.jpg",
+              "score": 7
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2022,
+          "count": 8,
+          "avgScore": 8.7,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 41467,
+              "title": "Bleach: Sennen Kessen-hen",
+              "image": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
+              "score": 10
+            },
+            {
+              "id": 49709,
+              "title": "Fumetsu no Anata e Season 2",
+              "image": "https://cdn.myanimelist.net/images/anime/1271/127700l.jpg",
+              "score": 10
+            },
+            {
+              "id": 48316,
+              "title": "Kage no Jitsuryokusha ni Naritakute!",
+              "image": "https://cdn.myanimelist.net/images/anime/1091/128729l.jpg",
+              "score": 10
+            }
+          ]
+        },
+        {
+          "season": "Winter",
+          "year": 2021,
+          "count": 6,
+          "avgScore": 8,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 39535,
+              "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+              "image": "https://cdn.myanimelist.net/images/anime/1530/117776l.jpg",
+              "score": 10
+            },
+            {
+              "id": 39551,
+              "title": "Tensei shitara Slime Datta Ken 2nd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1271/109841l.jpg",
+              "score": 9
+            },
+            {
+              "id": 42203,
+              "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+              "image": "https://cdn.myanimelist.net/images/anime/1724/117421l.jpg",
+              "score": 8
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2021,
+          "count": 4,
+          "avgScore": 8.5,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 41025,
+              "title": "Fumetsu no Anata e",
+              "image": "https://cdn.myanimelist.net/images/anime/1880/118484l.jpg",
+              "score": 10
+            },
+            {
+              "id": 42249,
+              "title": "Tokyo Revengers",
+              "image": "https://cdn.myanimelist.net/images/anime/1839/122012l.jpg",
+              "score": 7
+            },
+            {
+              "id": 41457,
+              "title": "86",
+              "image": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2021,
+          "count": 2,
+          "avgScore": 8.5,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 41487,
+              "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+              "image": "https://cdn.myanimelist.net/images/anime/1033/118296l.jpg",
+              "score": 9
+            },
+            {
+              "id": 43523,
+              "title": "Tsuki ga Michibiku Isekai Douchuu",
+              "image": "https://cdn.myanimelist.net/images/anime/1950/116474l.jpg",
+              "score": 8
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2021,
+          "count": 6,
+          "avgScore": 8.7,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 49926,
+              "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+              "image": "https://cdn.myanimelist.net/images/anime/1065/118763l.jpg",
+              "score": 9
+            },
+            {
+              "id": 45576,
+              "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+              "image": "https://cdn.myanimelist.net/images/anime/1028/117777l.jpg",
+              "score": 9
+            },
+            {
+              "id": 47778,
+              "title": "Kimetsu no Yaiba: Yuukaku-hen",
+              "image": "https://cdn.myanimelist.net/images/anime/1908/120036l.jpg",
+              "score": 8
+            }
+          ]
+        },
+        {
+          "season": "Winter",
+          "year": 2020,
+          "count": 1,
+          "avgScore": 0,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 41094,
+              "title": "Xian Wang de Richang Shenghuo",
+              "image": "https://cdn.myanimelist.net/images/anime/1925/105508l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2020,
+          "count": 3,
+          "avgScore": 8,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 40956,
+              "title": "Enen no Shouboutai: Ni no Shou",
+              "image": "https://cdn.myanimelist.net/images/anime/1673/107657l.jpg",
+              "score": 9
+            },
+            {
+              "id": 39587,
+              "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1444/108005l.jpg",
+              "score": 7
+            },
+            {
+              "id": 40496,
+              "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+              "image": "https://cdn.myanimelist.net/images/anime/1126/108573l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2020,
+          "count": 2,
+          "avgScore": 8,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 40748,
+              "title": "Jujutsu Kaisen",
+              "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
+              "score": 9
+            },
+            {
+              "id": 40454,
+              "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
+              "image": "https://cdn.myanimelist.net/images/anime/1523/108380l.jpg",
+              "score": 7
+            }
+          ]
+        },
+        {
+          "season": "Winter",
+          "year": 2019,
+          "count": 2,
+          "avgScore": 7.5,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 35790,
+              "title": "Tate no Yuusha no Nariagari",
+              "image": "https://cdn.myanimelist.net/images/anime/1490/101365l.jpg",
+              "score": 9
+            },
+            {
+              "id": 37510,
+              "title": "Mob Psycho 100 II",
+              "image": "https://cdn.myanimelist.net/images/anime/1918/96303l.jpg",
+              "score": 6
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2019,
+          "count": 3,
+          "avgScore": 9.5,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 38524,
+              "title": "Shingeki no Kyojin Season 3 Part 2",
+              "image": "https://cdn.myanimelist.net/images/anime/1517/100633l.jpg",
+              "score": 10
+            },
+            {
+              "id": 38000,
+              "title": "Kimetsu no Yaiba",
+              "image": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
+              "score": 9
+            },
+            {
+              "id": 38329,
+              "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+              "image": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2019,
+          "count": 5,
+          "avgScore": 7.6,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 37521,
+              "title": "Vinland Saga",
+              "image": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg",
+              "score": 10
+            },
+            {
+              "id": 38671,
+              "title": "Enen no Shouboutai",
+              "image": "https://cdn.myanimelist.net/images/anime/1664/103275l.jpg",
+              "score": 9
+            },
+            {
+              "id": 38691,
+              "title": "Dr. Stone",
+              "image": "https://cdn.myanimelist.net/images/anime/1613/102576l.jpg",
+              "score": 7
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2019,
+          "count": 3,
+          "avgScore": 7,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 38408,
+              "title": "Boku no Hero Academia 4th Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1412/107914l.jpg",
+              "score": 7
+            },
+            {
+              "id": 39701,
+              "title": "Nanatsu no Taizai: Kamigami no Gekirin",
+              "image": "https://cdn.myanimelist.net/images/anime/1546/103418l.jpg",
+              "score": 0
+            },
+            {
+              "id": 39597,
+              "title": "Sword Art Online: Alicization - War of Underworld",
+              "image": "https://cdn.myanimelist.net/images/anime/1630/103417l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Winter",
+          "year": 2018,
+          "count": 2,
+          "avgScore": 8,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 35073,
+              "title": "Overlord II",
+              "image": "https://cdn.myanimelist.net/images/anime/1212/113415l.jpg",
+              "score": 8
+            },
+            {
+              "id": 34577,
+              "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+              "image": "https://cdn.myanimelist.net/images/anime/11/90089l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2018,
+          "count": 1,
+          "avgScore": 7,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 36456,
+              "title": "Boku no Hero Academia 3rd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/1319/92084l.jpg",
+              "score": 7
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2018,
+          "count": 2,
+          "avgScore": 8,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 35760,
+              "title": "Shingeki no Kyojin Season 3",
+              "image": "https://cdn.myanimelist.net/images/anime/1173/92110l.jpg",
+              "score": 10
+            },
+            {
+              "id": 37675,
+              "title": "Overlord III",
+              "image": "https://cdn.myanimelist.net/images/anime/1511/93473l.jpg",
+              "score": 6
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2018,
+          "count": 3,
+          "avgScore": 9,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 37430,
+              "title": "Tensei shitara Slime Datta Ken",
+              "image": "https://cdn.myanimelist.net/images/anime/1069/123309l.jpg",
+              "score": 9
+            },
+            {
+              "id": 37450,
+              "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+              "image": "https://cdn.myanimelist.net/images/anime/1301/93586l.jpg",
+              "score": 0
+            },
+            {
+              "id": 36474,
+              "title": "Sword Art Online: Alicization",
+              "image": "https://cdn.myanimelist.net/images/anime/1993/93837l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Winter",
+          "year": 2017,
+          "count": 2,
+          "avgScore": 0,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 33506,
+              "title": "Ao no Exorcist: Kyoto Fujouou-hen",
+              "image": "https://cdn.myanimelist.net/images/anime/5/85201l.jpg",
+              "score": 0
+            },
+            {
+              "id": 31765,
+              "title": "Sword Art Online Movie: Ordinal Scale",
+              "image": "https://cdn.myanimelist.net/images/anime/1557/123313l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2017,
+          "count": 2,
+          "avgScore": 9.5,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 25777,
+              "title": "Shingeki no Kyojin Season 2",
+              "image": "https://cdn.myanimelist.net/images/anime/4/84177l.jpg",
+              "score": 10
+            },
+            {
+              "id": 33486,
+              "title": "Boku no Hero Academia 2nd Season",
+              "image": "https://cdn.myanimelist.net/images/anime/12/85221l.jpg",
+              "score": 9
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2017,
+          "count": 1,
+          "avgScore": 10,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 34572,
+              "title": "Black Clover",
+              "image": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg",
+              "score": 10
+            }
+          ]
+        },
+        {
+          "season": "Winter",
+          "year": 2016,
+          "count": 2,
+          "avgScore": 6,
+          "color": "#5865F2",
+          "emoji": "❄️",
+          "topAnime": [
+            {
+              "id": 31637,
+              "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",
+              "image": "https://cdn.myanimelist.net/images/anime/8/77382l.jpg",
+              "score": 6
+            },
+            {
+              "id": 31859,
+              "title": "Hai to Gensou no Grimgar",
+              "image": "https://cdn.myanimelist.net/images/anime/13/77976l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2016,
+          "count": 2,
+          "avgScore": 7.5,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 31964,
+              "title": "Boku no Hero Academia",
+              "image": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg",
+              "score": 9
+            },
+            {
+              "id": 31240,
+              "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+              "image": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
+              "score": 6
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2016,
+          "count": 2,
+          "avgScore": 6,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 32182,
+              "title": "Mob Psycho 100",
+              "image": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
+              "score": 6
+            },
+            {
+              "id": 31722,
+              "title": "Nanatsu no Taizai: Seisen no Shirushi",
+              "image": "https://cdn.myanimelist.net/images/anime/13/79331l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2015,
+          "count": 1,
+          "avgScore": 8,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 28121,
+              "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+              "image": "https://cdn.myanimelist.net/images/anime/1172/148981l.jpg",
+              "score": 8
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2015,
+          "count": 2,
+          "avgScore": 6.5,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 29803,
+              "title": "Overlord",
+              "image": "https://cdn.myanimelist.net/images/anime/1945/136600l.jpg",
+              "score": 7
+            },
+            {
+              "id": 28907,
+              "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+              "image": "https://cdn.myanimelist.net/images/anime/8/76222l.jpg",
+              "score": 6
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2014,
+          "count": 1,
+          "avgScore": 8,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 21881,
+              "title": "Sword Art Online II",
+              "image": "https://cdn.myanimelist.net/images/anime/1223/121999l.jpg",
+              "score": 8
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2014,
+          "count": 1,
+          "avgScore": 0,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 23755,
+              "title": "Nanatsu no Taizai",
+              "image": "https://cdn.myanimelist.net/images/anime/8/65409l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2013,
+          "count": 1,
+          "avgScore": 10,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 16498,
+              "title": "Shingeki no Kyojin",
+              "image": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg",
+              "score": 10
+            }
+          ]
+        },
+        {
+          "season": "Summer",
+          "year": 2012,
+          "count": 1,
+          "avgScore": 9,
+          "color": "#F0B132",
+          "emoji": "☀️",
+          "topAnime": [
+            {
+              "id": 11757,
+              "title": "Sword Art Online",
+              "image": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg",
+              "score": 9
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2011,
+          "count": 2,
+          "avgScore": 0,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 9919,
+              "title": "Ao no Exorcist",
+              "image": "https://cdn.myanimelist.net/images/anime/10/75195l.jpg",
+              "score": 0
+            },
+            {
+              "id": 9253,
+              "title": "Steins;Gate",
+              "image": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2011,
+          "count": 1,
+          "avgScore": 10,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 11061,
+              "title": "Hunter x Hunter (2011)",
+              "image": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg",
+              "score": 10
+            }
+          ]
+        },
+        {
+          "season": "Spring",
+          "year": 2009,
+          "count": 1,
+          "avgScore": 10,
+          "color": "#3BA55D",
+          "emoji": "🌸",
+          "topAnime": [
+            {
+              "id": 5114,
+              "title": "Fullmetal Alchemist: Brotherhood",
+              "image": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg",
+              "score": 10
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2008,
+          "count": 1,
+          "avgScore": 0,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 4898,
+              "title": "Kuroshitsuji",
+              "image": "https://cdn.myanimelist.net/images/anime/1467/137783l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2006,
+          "count": 1,
+          "avgScore": 0,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 1535,
+              "title": "Death Note",
+              "image": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
+              "score": 0
+            }
+          ]
+        },
+        {
+          "season": "Fall",
+          "year": 2004,
+          "count": 1,
+          "avgScore": 10,
+          "color": "#ED4245",
+          "emoji": "🍂",
+          "topAnime": [
+            {
+              "id": 269,
+              "title": "Bleach",
+              "image": "https://cdn.myanimelist.net/images/anime/1541/147774l.jpg",
+              "score": 10
+            }
+          ]
+        }
+      ],
+      "lengthStats": [
+        {
+          "category": "Short",
+          "range": "1-12 eps",
+          "count": 81,
+          "percentage": 51.3,
+          "avgScore": 7.7,
+          "color": "#3BA55D",
+          "description": "Quick binges"
+        },
+        {
+          "category": "Standard",
+          "range": "13-26 eps",
+          "count": 70,
+          "percentage": 44.3,
+          "avgScore": 8.1,
+          "color": "#5865F2",
+          "description": "Perfect balance"
+        },
+        {
+          "category": "Long",
+          "range": "27-50 eps",
+          "count": 3,
+          "percentage": 1.9,
+          "avgScore": 9,
+          "color": "#F0B132",
+          "description": "Deep stories"
+        },
+        {
+          "category": "Epic",
+          "range": "50+ eps",
+          "count": 4,
+          "percentage": 2.5,
+          "avgScore": 10,
+          "color": "#EB459E",
+          "description": "Marathon worthy"
+        }
+      ]
+    },
+    "top10": [
+      {
+        "id": 37521,
+        "title": "Vinland Saga",
+        "image": "https://cdn.myanimelist.net/images/anime/1500/103005l.webp",
+        "score": 10,
+        "rank": 1,
+        "peakBadge": {
+          "icon": "heart",
+          "label": "Peak Emotional",
+          "color": "#FF78C4"
+        },
+        "status": "completed"
+      },
+      {
+        "id": 269,
+        "title": "Bleach",
+        "image": "https://cdn.myanimelist.net/images/anime/1541/147774l.webp",
+        "score": 10,
+        "rank": 2,
+        "peakBadge": {
+          "icon": "music",
+          "label": "Peak OST",
+          "color": "#6BCB77"
+        },
+        "status": "completed"
+      },
+      {
+        "id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "image": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg",
+        "score": 10,
+        "rank": 3,
+        "peakBadge": {
+          "icon": "heart",
+          "label": "Peak Emotional",
+          "color": "#FF78C4"
+        },
+        "status": "completed"
+      },
+      {
+        "id": 11061,
+        "title": "Hunter x Hunter (2011)",
+        "image": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp",
+        "score": 10,
+        "rank": 4,
+        "peakBadge": {
+          "icon": "swords",
+          "label": "Peak Fights",
+          "color": "#4D96FF"
+        },
+        "status": "completed"
+      },
+      {
+        "id": 16498,
+        "title": "Shingeki no Kyojin",
+        "image": "https://cdn.myanimelist.net/images/anime/10/47347l.webp",
+        "score": 10,
+        "rank": 5,
+        "peakBadge": {
+          "icon": "music",
+          "label": "Peak OST",
+          "color": "#6BCB77"
+        },
+        "status": "completed"
+      },
+      {
+        "id": 39535,
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "image": "https://cdn.myanimelist.net/images/anime/1530/117776l.jpg",
+        "score": 10,
+        "rank": 6,
+        "status": "completed"
+      },
+      {
+        "id": 41025,
+        "title": "Fumetsu no Anata e",
+        "image": "https://cdn.myanimelist.net/images/anime/1880/118484l.webp",
+        "score": 10,
+        "rank": 7,
+        "status": "completed"
+      },
+      {
+        "id": 34572,
+        "title": "Black Clover",
+        "image": "https://cdn.myanimelist.net/images/anime/2/88336l.webp",
+        "score": 10,
+        "rank": 8,
+        "status": "completed"
+      },
+      {
+        "id": 48316,
+        "title": "Kage no Jitsuryokusha ni Naritakute!",
+        "image": "https://cdn.myanimelist.net/images/anime/1091/128729l.webp",
+        "score": 10,
+        "rank": 9,
+        "status": "completed"
+      },
+      {
+        "id": 44408,
+        "title": "Long Zu",
+        "image": "https://cdn.myanimelist.net/images/anime/1854/126703l.webp",
+        "score": 10,
+        "rank": 10,
+        "status": "completed"
+      }
+    ],
+    "tiers": [
+      {
+        "name": "S+",
+        "color": "#FFD700",
+        "gradient": "from-yellow-400 via-amber-300 to-yellow-500",
+        "glow": "shadow-yellow-500/40",
+        "description": "Masterpiece - Peak Fiction",
+        "items": [
+          {
+            "id": 37521,
+            "title": "Vinland Saga",
+            "image": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 49387,
+            "title": "Vinland Saga Season 2",
+            "image": "https://cdn.myanimelist.net/images/anime/1170/124312l.webp",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 269,
+            "title": "Bleach",
+            "image": "https://cdn.myanimelist.net/images/anime/1541/147774l.webp",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 41467,
+            "title": "Bleach: Sennen Kessen-hen",
+            "image": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 53998,
+            "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+            "image": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 56784,
+            "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+            "image": "https://cdn.myanimelist.net/images/anime/1595/144074l.jpg",
+            "score": 0,
+            "status": "completed"
+          },
+          {
+            "id": 5114,
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "image": "https://cdn.myanimelist.net/images/anime/1208/94745l.webp",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 11061,
+            "title": "Hunter x Hunter (2011)",
+            "image": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 48316,
+            "title": "Kage no Jitsuryokusha ni Naritakute!",
+            "image": "https://cdn.myanimelist.net/images/anime/1091/128729l.webp",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 39535,
+            "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "image": "https://cdn.myanimelist.net/images/anime/1530/117776l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 25777,
+            "title": "Shingeki no Kyojin Season 2",
+            "image": "https://cdn.myanimelist.net/images/anime/4/84177l.webp",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 35760,
+            "title": "Shingeki no Kyojin Season 3",
+            "image": "https://cdn.myanimelist.net/images/anime/1173/92110l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 41487,
+            "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+            "image": "https://cdn.myanimelist.net/images/anime/1033/118296l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 53580,
+            "title": "Tensei shitara Slime Datta Ken 3rd Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1211/143476l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 34572,
+            "title": "Black Clover",
+            "image": "https://cdn.myanimelist.net/images/anime/2/88336l.jpg",
+            "score": 10,
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "name": "S",
+        "color": "#FF6B6B",
+        "gradient": "from-red-500 via-rose-400 to-red-600",
+        "glow": "shadow-red-500/40",
+        "description": "Outstanding - Near Perfect",
+        "items": [
+          {
+            "id": 41025,
+            "title": "Fumetsu no Anata e",
+            "image": "https://cdn.myanimelist.net/images/anime/1880/118484l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 49709,
+            "title": "Fumetsu no Anata e Season 2",
+            "image": "https://cdn.myanimelist.net/images/anime/1271/127700l.webp",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 46569,
+            "title": "Jigokuraku",
+            "image": "https://cdn.myanimelist.net/images/anime/1075/131925l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 55825,
+            "title": "Jigokuraku 2nd Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1772/154456l.jpg",
+            "score": 0,
+            "status": "completed"
+          },
+          {
+            "id": 40748,
+            "title": "Jujutsu Kaisen",
+            "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.webp",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 54595,
+            "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1938/138295l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 59192,
+            "title": "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai",
+            "image": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 49926,
+            "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+            "image": "https://cdn.myanimelist.net/images/anime/1065/118763l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 44408,
+            "title": "Long Zu",
+            "image": "https://cdn.myanimelist.net/images/anime/1854/126703l.webp",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 51179,
+            "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "image": "https://cdn.myanimelist.net/images/anime/1898/138005l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 55888,
+            "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "image": "https://cdn.myanimelist.net/images/anime/1876/141251l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 45576,
+            "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "image": "https://cdn.myanimelist.net/images/anime/1028/117777l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 16498,
+            "title": "Shingeki no Kyojin",
+            "image": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 38524,
+            "title": "Shingeki no Kyojin Season 3 Part 2",
+            "image": "https://cdn.myanimelist.net/images/anime/1517/100633l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 50265,
+            "title": "Spy x Family",
+            "image": "https://cdn.myanimelist.net/images/anime/1441/122795l.jpg",
+            "score": 10,
+            "status": "completed"
+          },
+          {
+            "id": 59027,
+            "title": "Spy x Family Season 3",
+            "image": "https://cdn.myanimelist.net/images/anime/1697/151793l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 11757,
+            "title": "Sword Art Online",
+            "image": "https://cdn.myanimelist.net/images/anime/11/39717l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 37430,
+            "title": "Tensei shitara Slime Datta Ken",
+            "image": "https://cdn.myanimelist.net/images/anime/1069/123309l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 39551,
+            "title": "Tensei shitara Slime Datta Ken 2nd Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1271/109841l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 43523,
+            "title": "Tsuki ga Michibiku Isekai Douchuu",
+            "image": "https://cdn.myanimelist.net/images/anime/1950/116474l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 49889,
+            "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1794/142621l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 53865,
+            "title": "Yozakura-san Chi no Daisakusen",
+            "image": "https://cdn.myanimelist.net/images/anime/1674/143715l.webp",
+            "score": 9,
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "name": "A",
+        "color": "#FF9F43",
+        "gradient": "from-orange-500 via-amber-400 to-orange-600",
+        "glow": "shadow-orange-500/40",
+        "description": "Excellent - Highly Recommended",
+        "items": [
+          {
+            "id": 31964,
+            "title": "Boku no Hero Academia",
+            "image": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 33486,
+            "title": "Boku no Hero Academia 2nd Season",
+            "image": "https://cdn.myanimelist.net/images/anime/12/85221l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 49918,
+            "title": "Boku no Hero Academia 6th Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1483/126005l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 54789,
+            "title": "Boku no Hero Academia 7th Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1529/140306l.jpg",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 60098,
+            "title": "Boku no Hero Academia: Final Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1959/151055l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 44511,
+            "title": "Chainsaw Man",
+            "image": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 57555,
+            "title": "Chainsaw Man Movie: Reze-hen",
+            "image": "https://cdn.myanimelist.net/images/anime/1763/150638l.webp",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 38691,
+            "title": "Dr. Stone",
+            "image": "https://cdn.myanimelist.net/images/anime/1613/102576l.webp",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 40852,
+            "title": "Dr. Stone: Stone Wars",
+            "image": "https://cdn.myanimelist.net/images/anime/1711/110614l.jpg",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 38671,
+            "title": "Enen no Shouboutai",
+            "image": "https://cdn.myanimelist.net/images/anime/1664/103275l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 40956,
+            "title": "Enen no Shouboutai: Ni no Shou",
+            "image": "https://cdn.myanimelist.net/images/anime/1673/107657l.webp",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 51818,
+            "title": "Enen no Shouboutai: San no Shou",
+            "image": "https://cdn.myanimelist.net/images/anime/1527/146836l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 59229,
+            "title": "Enen no Shouboutai: San no Shou Part 2",
+            "image": "https://cdn.myanimelist.net/images/anime/1508/152472l.jpg",
+            "score": 0,
+            "status": "completed"
+          },
+          {
+            "id": 54703,
+            "title": "Fumetsu no Anata e Season 3",
+            "image": "https://cdn.myanimelist.net/images/anime/1140/152364l.webp",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 59062,
+            "title": "Gachiakuta",
+            "image": "https://cdn.myanimelist.net/images/anime/1682/150432l.jpg",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 51009,
+            "title": "Jujutsu Kaisen 2nd Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1792/138022l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 57658,
+            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+            "image": "https://cdn.myanimelist.net/images/anime/1659/154920l.jpg",
+            "score": 0,
+            "status": "completed"
+          },
+          {
+            "id": 38000,
+            "title": "Kimetsu no Yaiba",
+            "image": "https://cdn.myanimelist.net/images/anime/1286/99889l.webp",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 55701,
+            "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
+            "image": "https://cdn.myanimelist.net/images/anime/1565/142711l.jpg",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 47778,
+            "title": "Kimetsu no Yaiba: Yuukaku-hen",
+            "image": "https://cdn.myanimelist.net/images/anime/1908/120036l.webp",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 52890,
+            "title": "Long Zu Episode 0",
+            "image": "https://cdn.myanimelist.net/images/anime/1980/127330l.webp",
+            "score": 9,
+            "status": "completed"
+          },
+          {
+            "id": 59662,
+            "title": "Long Zu II: Daowangzhe Zhi Tong",
+            "image": "https://cdn.myanimelist.net/images/anime/1577/147273l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 52299,
+            "title": "Ore dake Level Up na Ken",
+            "image": "https://cdn.myanimelist.net/images/anime/1801/142390l.jpg",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 58567,
+            "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+            "image": "https://cdn.myanimelist.net/images/anime/1448/147351l.webp",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 54857,
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1706/144725l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 52347,
+            "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+            "image": "https://cdn.myanimelist.net/images/anime/1500/139931l.webp",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 58572,
+            "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1996/147601l.jpg",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 59571,
+            "title": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
+            "image": "https://cdn.myanimelist.net/images/anime/1379/145452l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 50602,
+            "title": "Spy x Family Part 2",
+            "image": "https://cdn.myanimelist.net/images/anime/1111/127508l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 21881,
+            "title": "Sword Art Online II",
+            "image": "https://cdn.myanimelist.net/images/anime/1223/121999l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 35790,
+            "title": "Tate no Yuusha no Nariagari",
+            "image": "https://cdn.myanimelist.net/images/anime/1490/101365l.jpg",
+            "score": 9,
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "name": "B",
+        "color": "#FECA57",
+        "gradient": "from-yellow-500 via-amber-400 to-yellow-600",
+        "glow": "shadow-amber-500/40",
+        "description": "Great - Very Good",
+        "items": [
+          {
+            "id": 36456,
+            "title": "Boku no Hero Academia 3rd Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1319/92084l.webp",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 41587,
+            "title": "Boku no Hero Academia 5th Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1911/113611l.webp",
+            "score": 6,
+            "status": "completed"
+          },
+          {
+            "id": 48549,
+            "title": "Dr. Stone: New World",
+            "image": "https://cdn.myanimelist.net/images/anime/1316/136268l.jpg",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 28121,
+            "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+            "image": "https://cdn.myanimelist.net/images/anime/1172/148981l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 47164,
+            "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen",
+            "image": "https://cdn.myanimelist.net/images/anime/1318/126474l.jpg",
+            "score": 0,
+            "status": "completed"
+          },
+          {
+            "id": 51019,
+            "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+            "image": "https://cdn.myanimelist.net/images/anime/1765/135099l.webp",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 32182,
+            "title": "Mob Psycho 100",
+            "image": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
+            "score": 6,
+            "status": "completed"
+          },
+          {
+            "id": 37510,
+            "title": "Mob Psycho 100 II",
+            "image": "https://cdn.myanimelist.net/images/anime/1918/96303l.webp",
+            "score": 6,
+            "status": "completed"
+          },
+          {
+            "id": 50172,
+            "title": "Mob Psycho 100 III",
+            "image": "https://cdn.myanimelist.net/images/anime/1228/125011l.jpg",
+            "score": 6,
+            "status": "completed"
+          },
+          {
+            "id": 29803,
+            "title": "Overlord",
+            "image": "https://cdn.myanimelist.net/images/anime/1945/136600l.webp",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 35073,
+            "title": "Overlord II",
+            "image": "https://cdn.myanimelist.net/images/anime/1212/113415l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 31240,
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "image": "https://cdn.myanimelist.net/images/anime/1522/128039l.jpg",
+            "score": 6,
+            "status": "completed"
+          },
+          {
+            "id": 42203,
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "image": "https://cdn.myanimelist.net/images/anime/1724/117421l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 53887,
+            "title": "Spy x Family Season 2",
+            "image": "https://cdn.myanimelist.net/images/anime/1506/138982l.jpg",
+            "score": 6,
+            "status": "completed"
+          },
+          {
+            "id": 57907,
+            "title": "Tate no Yuusha no Nariagari Season 4",
+            "image": "https://cdn.myanimelist.net/images/anime/1638/150592l.webp",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 42249,
+            "title": "Tokyo Revengers",
+            "image": "https://cdn.myanimelist.net/images/anime/1839/122012l.webp",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 50608,
+            "title": "Tokyo Revengers: Seiya Kessen-hen",
+            "image": "https://cdn.myanimelist.net/images/anime/1773/132313l.jpg",
+            "score": 8,
+            "status": "completed"
+          },
+          {
+            "id": 54918,
+            "title": "Tokyo Revengers: Tenjiku-hen",
+            "image": "https://cdn.myanimelist.net/images/anime/1853/139843l.jpg",
+            "score": 7,
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "name": "C",
+        "color": "#48DBFB",
+        "gradient": "from-cyan-400 via-sky-400 to-cyan-500",
+        "glow": "shadow-cyan-500/40",
+        "description": "Good - Enjoyable",
+        "items": [
+          {
+            "id": 52995,
+            "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+            "image": "https://cdn.myanimelist.net/images/anime/1553/145597l.jpg",
+            "score": 5,
+            "status": "completed"
+          },
+          {
+            "id": 46971,
+            "title": "Arifureta Shokugyou de Sekai Saikyou: Prologue",
+            "image": "https://cdn.myanimelist.net/images/anime/1285/111316l.jpg",
+            "score": 4,
+            "status": "completed"
+          },
+          {
+            "id": 38408,
+            "title": "Boku no Hero Academia 4th Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1412/107914l.jpg",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 50612,
+            "title": "Dr. Stone: Ryuusui",
+            "image": "https://cdn.myanimelist.net/images/anime/1071/124921l.webp",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 28907,
+            "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+            "image": "https://cdn.myanimelist.net/images/anime/8/76222l.webp",
+            "score": 6,
+            "status": "completed"
+          },
+          {
+            "id": 31637,
+            "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",
+            "image": "https://cdn.myanimelist.net/images/anime/8/77382l.webp",
+            "score": 6,
+            "status": "completed"
+          },
+          {
+            "id": 37675,
+            "title": "Overlord III",
+            "image": "https://cdn.myanimelist.net/images/anime/1511/93473l.jpg",
+            "score": 6,
+            "status": "completed"
+          },
+          {
+            "id": 48895,
+            "title": "Overlord IV",
+            "image": "https://cdn.myanimelist.net/images/anime/1530/120110l.jpg",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 39587,
+            "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1444/108005l.webp",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 58059,
+            "title": "Tsue to Tsurugi no Wistoria",
+            "image": "https://cdn.myanimelist.net/images/anime/1281/144104l.jpg",
+            "score": 8,
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "name": "D",
+        "color": "#1DD1A1",
+        "gradient": "from-emerald-500 via-teal-400 to-emerald-600",
+        "glow": "shadow-emerald-500/40",
+        "description": "Average - Has Merits",
+        "items": [
+          {
+            "id": 36882,
+            "title": "Arifureta Shokugyou de Sekai Saikyou",
+            "image": "https://cdn.myanimelist.net/images/anime/1776/97682l.jpg",
+            "score": 5,
+            "status": "completed"
+          },
+          {
+            "id": 40507,
+            "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+            "image": "https://cdn.myanimelist.net/images/anime/1877/119668l.jpg",
+            "score": 6,
+            "status": "completed"
+          },
+          {
+            "id": 37347,
+            "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+            "image": "https://cdn.myanimelist.net/images/anime/1730/101329l.webp",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 40454,
+            "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
+            "image": "https://cdn.myanimelist.net/images/anime/1523/108380l.webp",
+            "score": 7,
+            "status": "completed"
+          },
+          {
+            "id": 40357,
+            "title": "Tate no Yuusha no Nariagari Season 3",
+            "image": "https://cdn.myanimelist.net/images/anime/1317/139802l.jpg",
+            "score": 7,
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "name": "E",
+        "color": "#5F27CD",
+        "gradient": "from-violet-600 via-purple-500 to-violet-700",
+        "glow": "shadow-violet-500/40",
+        "description": "Below Average",
+        "items": [
+          {
+            "id": 53439,
+            "title": "Boushoku no Berserk",
+            "image": "https://cdn.myanimelist.net/images/anime/1951/138462l.jpg",
+            "score": 4,
+            "status": "completed"
+          },
+          {
+            "id": 60732,
+            "title": "Mizu Zokusei no Mahoutsukai",
+            "image": "https://cdn.myanimelist.net/images/anime/1383/151072l.jpg",
+            "score": 5,
+            "status": "completed"
+          },
+          {
+            "id": 40356,
+            "title": "Tate no Yuusha no Nariagari Season 2",
+            "image": "https://cdn.myanimelist.net/images/anime/1143/121873l.webp",
+            "score": 4,
+            "status": "completed"
+          }
+        ]
+      },
+      {
+        "name": "F",
+        "color": "#576574",
+        "gradient": "from-slate-500 via-gray-400 to-slate-600",
+        "glow": "shadow-slate-500/40",
+        "description": "Not Recommended",
+        "items": []
+      }
+    ]
+  },
+  "gaming": {
+    "stats": {
+      "totalPlaytime": 185124,
+      "totalGames": 61,
+      "mostPlayed": [
+        {
+          "id": 700330,
+          "title": "SCP: Secret Laboratory",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/700330/header.jpg",
+          "playtime": 44093,
+          "lastPlayed": "2025-12-24T13:47:27.000Z"
+        },
+        {
+          "id": 730,
+          "title": "Counter-Strike 2",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+          "playtime": 24999,
+          "lastPlayed": "2025-09-16T10:47:05.000Z"
+        },
+        {
+          "id": 346110,
+          "title": "ARK: Survival Evolved",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/346110/header.jpg",
+          "playtime": 18240,
+          "lastPlayed": "2024-06-18T19:28:02.000Z"
+        },
+        {
+          "id": 271590,
+          "title": "Grand Theft Auto V Legacy",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+          "playtime": 10490,
+          "lastPlayed": "2025-03-02T16:58:05.000Z"
+        },
+        {
+          "id": 105600,
+          "title": "Terraria",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+          "playtime": 10457,
+          "lastPlayed": "2025-11-25T18:11:22.000Z"
+        },
+        {
+          "id": 1281930,
+          "title": "tModLoader",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1281930/header.jpg",
+          "playtime": 10402,
+          "lastPlayed": "2025-11-25T18:11:24.000Z"
+        }
+      ],
+      "games": [
+        {
+          "id": 700330,
+          "title": "SCP: Secret Laboratory",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/700330/header.jpg",
+          "playtime": 44093,
+          "lastPlayed": "2025-12-24T13:47:27.000Z"
+        },
+        {
+          "id": 730,
+          "title": "Counter-Strike 2",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+          "playtime": 24999,
+          "lastPlayed": "2025-09-16T10:47:05.000Z"
+        },
+        {
+          "id": 346110,
+          "title": "ARK: Survival Evolved",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/346110/header.jpg",
+          "playtime": 18240,
+          "lastPlayed": "2024-06-18T19:28:02.000Z"
+        },
+        {
+          "id": 271590,
+          "title": "Grand Theft Auto V Legacy",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+          "playtime": 10490,
+          "lastPlayed": "2025-03-02T16:58:05.000Z"
+        },
+        {
+          "id": 105600,
+          "title": "Terraria",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+          "playtime": 10457,
+          "lastPlayed": "2025-11-25T18:11:22.000Z"
+        },
+        {
+          "id": 1281930,
+          "title": "tModLoader",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1281930/header.jpg",
+          "playtime": 10402,
+          "lastPlayed": "2025-11-25T18:11:24.000Z"
+        },
+        {
+          "id": 294100,
+          "title": "RimWorld",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg",
+          "playtime": 8221,
+          "lastPlayed": "2025-12-13T18:22:46.000Z"
+        },
+        {
+          "id": 2767030,
+          "title": "Marvel Rivals",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2767030/header.jpg",
+          "playtime": 7545,
+          "lastPlayed": "2025-06-16T15:22:41.000Z"
+        },
+        {
+          "id": 1818450,
+          "title": "STALCRAFT: X",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1818450/header.jpg",
+          "playtime": 5122,
+          "lastPlayed": "2025-12-24T08:34:17.000Z"
+        },
+        {
+          "id": 1174180,
+          "title": "Red Dead Redemption 2",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+          "playtime": 5101,
+          "lastPlayed": "2025-12-27T13:48:06.000Z"
+        },
+        {
+          "id": 304930,
+          "title": "Unturned",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/304930/header.jpg",
+          "playtime": 4469,
+          "lastPlayed": "2025-12-26T09:45:54.000Z"
+        },
+        {
+          "id": 686810,
+          "title": "Hell Let Loose",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/686810/header.jpg",
+          "playtime": 4454,
+          "lastPlayed": "2026-01-31T23:43:34.000Z"
+        },
+        {
+          "id": 3241660,
+          "title": "R.E.P.O.",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/header.jpg",
+          "playtime": 4066,
+          "lastPlayed": "2025-12-08T20:13:02.000Z"
+        },
+        {
+          "id": 1237950,
+          "title": "STAR WARS™ Battlefront™ II",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1237950/header.jpg",
+          "playtime": 3745,
+          "lastPlayed": "2025-08-30T09:52:35.000Z"
+        },
+        {
+          "id": 1771300,
+          "title": "Kingdom Come: Deliverance II",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1771300/header.jpg",
+          "playtime": 2915,
+          "lastPlayed": "2026-01-24T16:56:29.000Z"
+        },
+        {
+          "id": 1623730,
+          "title": "Palworld",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
+          "playtime": 2457,
+          "lastPlayed": "2025-12-02T17:52:47.000Z"
+        },
+        {
+          "id": 1824220,
+          "title": "Chivalry 2",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1824220/header.jpg",
+          "playtime": 1888,
+          "lastPlayed": "2026-01-02T19:10:42.000Z"
+        },
+        {
+          "id": 526870,
+          "title": "Satisfactory",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/526870/header.jpg",
+          "playtime": 1833,
+          "lastPlayed": "2025-12-03T15:12:40.000Z"
+        },
+        {
+          "id": 1808500,
+          "title": "ARC Raiders",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1808500/header.jpg",
+          "playtime": 1800,
+          "lastPlayed": "2025-12-27T14:34:51.000Z"
+        },
+        {
+          "id": 1169040,
+          "title": "Necesse",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1169040/header.jpg",
+          "playtime": 1402,
+          "lastPlayed": "2025-11-25T20:59:53.000Z"
+        },
+        {
+          "id": 1568590,
+          "title": "Goose Goose Duck",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1568590/header.jpg",
+          "playtime": 1280,
+          "lastPlayed": "2025-12-25T21:20:25.000Z"
+        },
+        {
+          "id": 1903340,
+          "title": "Clair Obscur: Expedition 33",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1903340/header.jpg",
+          "playtime": 1065,
+          "lastPlayed": "2025-12-27T13:04:39.000Z"
+        },
+        {
+          "id": 548430,
+          "title": "Deep Rock Galactic",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg",
+          "playtime": 829,
+          "lastPlayed": "2025-12-03T17:03:06.000Z"
+        },
+        {
+          "id": 2881650,
+          "title": "Content Warning",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2881650/header.jpg",
+          "playtime": 626,
+          "lastPlayed": "2024-10-26T18:36:25.000Z"
+        },
+        {
+          "id": 1943950,
+          "title": "Escape the Backrooms",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1943950/header.jpg",
+          "playtime": 611,
+          "lastPlayed": "2024-04-18T17:43:13.000Z"
+        },
+        {
+          "id": 1422450,
+          "title": "Deadlock",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1422450/header.jpg",
+          "playtime": 594,
+          "lastPlayed": "2025-12-15T18:15:09.000Z"
+        },
+        {
+          "id": 1966720,
+          "title": "Lethal Company",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/header.jpg",
+          "playtime": 577,
+          "lastPlayed": "2025-12-10T15:23:41.000Z"
+        },
+        {
+          "id": 3606890,
+          "title": "Upload Labs",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3606890/header.jpg",
+          "playtime": 572,
+          "lastPlayed": "2025-10-19T19:23:42.000Z"
+        },
+        {
+          "id": 292030,
+          "title": "The Witcher 3: Wild Hunt",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
+          "playtime": 553,
+          "lastPlayed": "2025-12-24T09:34:51.000Z"
+        },
+        {
+          "id": 250900,
+          "title": "The Binding of Isaac: Rebirth",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/header.jpg",
+          "playtime": 473,
+          "lastPlayed": "2025-12-30T08:50:19.000Z"
+        },
+        {
+          "id": 431960,
+          "title": "Wallpaper Engine",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/431960/header.jpg",
+          "playtime": 404,
+          "lastPlayed": "2026-01-25T17:26:56.000Z"
+        },
+        {
+          "id": 1621690,
+          "title": "Core Keeper",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1621690/header.jpg",
+          "playtime": 380,
+          "lastPlayed": "2026-01-02T10:01:22.000Z"
+        },
+        {
+          "id": 2551020,
+          "title": "One-armed robber",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2551020/header.jpg",
+          "playtime": 364,
+          "lastPlayed": "2024-08-11T11:16:00.000Z"
+        },
+        {
+          "id": 3240220,
+          "title": "Grand Theft Auto V Enhanced",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3240220/header.jpg",
+          "playtime": 356,
+          "lastPlayed": "2025-12-31T22:04:53.000Z"
+        },
+        {
+          "id": 1454400,
+          "title": "Cookie Clicker",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1454400/header.jpg",
+          "playtime": 343,
+          "lastPlayed": "2025-07-07T08:55:28.000Z"
+        },
+        {
+          "id": 2051620,
+          "title": "Enlisted",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2051620/header.jpg",
+          "playtime": 297,
+          "lastPlayed": "2025-12-31T21:52:21.000Z"
+        },
+        {
+          "id": 1049800,
+          "title": "BLOCKADE ",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1049800/header.jpg",
+          "playtime": 285,
+          "lastPlayed": "2023-12-16T13:08:15.000Z"
+        },
+        {
+          "id": 2695940,
+          "title": "PANICORE",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2695940/header.jpg",
+          "playtime": 280,
+          "lastPlayed": "2024-10-27T19:29:42.000Z"
+        },
+        {
+          "id": 508440,
+          "title": "Totally Accurate Battle Simulator",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/508440/header.jpg",
+          "playtime": 229,
+          "lastPlayed": "2024-12-27T12:40:20.000Z"
+        },
+        {
+          "id": 1091500,
+          "title": "Cyberpunk 2077",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+          "playtime": 223,
+          "lastPlayed": "2025-12-29T12:29:57.000Z"
+        },
+        {
+          "id": 518790,
+          "title": "theHunter: Call of the Wild™",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/518790/header.jpg",
+          "playtime": 204,
+          "lastPlayed": "2025-12-27T16:56:47.000Z"
+        },
+        {
+          "id": 233450,
+          "title": "Prison Architect",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/233450/header.jpg",
+          "playtime": 152,
+          "lastPlayed": "2025-09-20T16:29:34.000Z"
+        },
+        {
+          "id": 359550,
+          "title": "Tom Clancy's Rainbow Six® Siege X",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/header.jpg",
+          "playtime": 123,
+          "lastPlayed": "2025-07-05T12:50:58.000Z"
+        },
+        {
+          "id": 632360,
+          "title": "Risk of Rain 2",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/632360/header.jpg",
+          "playtime": 102,
+          "lastPlayed": "2025-12-13T14:37:27.000Z"
+        },
+        {
+          "id": 1118200,
+          "title": "People Playground",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1118200/header.jpg",
+          "playtime": 89,
+          "lastPlayed": "2025-12-14T13:15:42.000Z"
+        },
+        {
+          "id": 1625450,
+          "title": "Muck",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1625450/header.jpg",
+          "playtime": 73,
+          "lastPlayed": "2023-10-19T15:34:05.000Z"
+        },
+        {
+          "id": 413150,
+          "title": "Stardew Valley",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg",
+          "playtime": 65,
+          "lastPlayed": "2026-01-24T17:26:33.000Z"
+        },
+        {
+          "id": 1583230,
+          "title": "High On Life",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1583230/header.jpg",
+          "playtime": 61,
+          "lastPlayed": "2025-11-26T19:32:18.000Z"
+        },
+        {
+          "id": 471710,
+          "title": "Rec Room",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/471710/header.jpg",
+          "playtime": 48,
+          "lastPlayed": "2024-03-01T17:37:15.000Z"
+        },
+        {
+          "id": 641990,
+          "title": "The Escapists 2",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/641990/header.jpg",
+          "playtime": 35,
+          "lastPlayed": "2025-11-26T14:36:39.000Z"
+        },
+        {
+          "id": 1977530,
+          "title": "One-armed cook",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1977530/header.jpg",
+          "playtime": 32,
+          "lastPlayed": "2024-04-15T09:38:38.000Z"
+        },
+        {
+          "id": 304050,
+          "title": "Trove",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/304050/header.jpg",
+          "playtime": 31,
+          "lastPlayed": "2024-04-15T09:37:58.000Z"
+        },
+        {
+          "id": 1458140,
+          "title": "Pacific Drive",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1458140/header.jpg",
+          "playtime": 22,
+          "lastPlayed": "2025-03-26T11:05:27.000Z"
+        },
+        {
+          "id": 1172470,
+          "title": "Apex Legends",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+          "playtime": 18,
+          "lastPlayed": "2022-03-24T18:29:32.000Z"
+        },
+        {
+          "id": 236390,
+          "title": "War Thunder",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/236390/header.jpg",
+          "playtime": 16,
+          "lastPlayed": "2022-04-24T15:05:50.000Z"
+        },
+        {
+          "id": 480430,
+          "title": "Hide and Shriek",
+          "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/480430/header.jpg",
+          "playtime": 13,
+          "lastPlayed": "2022-08-02T11:21:04.000Z"
+        }
+      ]
+    }
+  }
+}

@@ -4,6 +4,11 @@ import type { Profile, AnimeStats, TierAnime, TierData, GamingStats, WebsiteData
 const ELECTRON_API_PORT = 8765;
 const ELECTRON_API_URL = `http://localhost:${ELECTRON_API_PORT}`;
 
+// Track if local API is available to avoid spamming failed requests
+let localApiAvailable: boolean | null = null;
+let localApiLastCheck = 0;
+const LOCAL_API_CHECK_INTERVAL = 30000; // Only retry local API every 30 seconds
+
 async function fetchWebsiteData(): Promise<WebsiteData> {
   const res = await fetch('/data.json');
   if (!res.ok) throw new Error('Failed to load data');
@@ -84,13 +89,30 @@ async function fetchNowWatching(): Promise<NowWatching> {
     console.debug('Vercel API unavailable:', error);
   }
 
-  // Try 2: Local FoxCLI App (works when running locally)
-  try {
-    const res = await fetch(`${ELECTRON_API_URL}/api/now-watching`);
-    if (!res.ok) throw new Error('Failed to fetch from Electron API');
-    return res.json();
-  } catch {
-    console.debug('Local FoxCLI unavailable');
+  // Try 2: Local FoxCLI App (only if we haven't recently failed)
+  const now = Date.now();
+  const shouldCheckLocal = localApiAvailable !== false || 
+                           (now - localApiLastCheck) > LOCAL_API_CHECK_INTERVAL;
+  
+  if (shouldCheckLocal) {
+    try {
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 2000); // 2s timeout
+      
+      const res = await fetch(`${ELECTRON_API_URL}/api/now-watching`, {
+        signal: controller.signal
+      });
+      clearTimeout(timeoutId);
+      
+      if (!res.ok) throw new Error('Failed to fetch from Electron API');
+      localApiAvailable = true;
+      localApiLastCheck = now;
+      return res.json();
+    } catch {
+      localApiAvailable = false;
+      localApiLastCheck = now;
+      // Don't log on every poll - only log once when it becomes unavailable
+    }
   }
 
   // Fallback: Not watching

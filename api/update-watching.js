@@ -1,14 +1,24 @@
 // Vercel serverless function to receive watching updates
-export default async function handler(req, res) {
-  // ALWAYS set CORS headers first, before any other code
+
+// CORS headers helper - must be applied to ALL responses
+const setCorsHeaders = (res) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'POST, GET, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With, Content-Type, Authorization, Accept');
+  res.setHeader('Access-Control-Max-Age', '86400');
+  return res;
+};
+
+export default async function handler(req, res) {
+  // ALWAYS set CORS headers FIRST, before any other code
+  setCorsHeaders(res);
+
+  // Handle preflight immediately - don't process anything else
+  if (req.method === 'OPTIONS') {
+    return res.status(204).end();
+  }
 
   try {
-    if (req.method === 'OPTIONS') {
-      return res.status(200).end();
-    }
 
     // GET - Return current watching data
     if (req.method === 'GET') {

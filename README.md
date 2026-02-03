@@ -25,6 +25,25 @@
 
 ---
 
+## ⚠️ Personal Project Notice
+
+**This is a personal website highly customized for my specific use case.** It will **not** work out of the box for others without significant modifications.
+
+### What You Need to Change:
+- **MyAnimeList Username** — Hardcoded in the data export (`Foxems`)
+- **Steam Profile** — Requires your own Steam ID and API key
+- **Data Source Paths** — File paths are specific to my local FoxCLI setup
+- **Personal Branding** — All Foxems branding and content is personal
+
+If you want to use this code, you'll need to:
+1. Search for hardcoded values in the codebase and replace them with your own
+2. Set up your own data export system (or modify to use APIs directly)
+3. Update all personal content, images, and branding
+
+> *This repository is primarily for my own reference and backup. Feel free to use it as inspiration, but expect to do significant customization work.*
+
+---
+
 ## 🎭 Features
 
 ### 🏰 Hero Section
@@ -152,6 +171,24 @@ src/
 [![MAL](https://img.shields.io/badge/MAL-Foxems-2E51A2?style=flat-square&logo=myanimelist)](https://myanimelist.net/profile/Foxems)
 
 </div>
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](../LICENSE) file for details.
+
+### What MIT License Means:
+- ✅ You can use this code for free, forever
+- ✅ You can modify it
+- ✅ You can distribute it
+- ✅ You can use it in commercial projects
+- ✅ Private use is allowed
+- ✅ You must include the license and copyright notice
+- ⚠️ You can't hold the author liable
+- ⚠️ There's no warranty
+
+**Note**: While the license allows reuse, this codebase contains personal configurations and hardcoded values that require significant customization to work for others.
 
 ---
 
